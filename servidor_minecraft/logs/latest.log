@@ -1,0 +1,55 @@
+[20:57:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:57:44] [ServerMain/INFO]: Loaded 1337 recipes
+[20:57:44] [ServerMain/INFO]: Loaded 1448 advancements
+[20:57:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:57:44] [Server thread/INFO]: Loading properties
+[20:57:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:44] [Server thread/INFO]: Generating keypair
+[20:57:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:57:44] [Server thread/INFO]: Using epoll channel type
+[20:57:44] [Server thread/INFO]: Preparing level "world"
+[20:57:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:57:47] [Server thread/INFO]: Time elapsed: 2978 ms
+[20:57:47] [Server thread/INFO]: Done (3.189s)! For help, type "help"
+[20:58:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:58:47] [User Authenticator #1/INFO]: UUID of player KingSlish is 9e1ef7e9-0697-4bfa-ad8c-d47948f4c993
+[20:58:49] [Server thread/INFO]: KingSlish[/127.138.29.83:57371] logged in with entity id 99 at (-17.5, 65.0, 17.5)
+[20:58:49] [Server thread/INFO]: KingSlish joined the game
+[21:01:22] [User Authenticator #2/INFO]: UUID of player Guennady is 017d4e60-3d5f-420d-ac5e-3b4b67769c6c
+[21:01:23] [Server thread/INFO]: Guennady[/127.192.237.176:34347] logged in with entity id 809 at (-16.5, 66.0, 10.5)
+[21:01:23] [Server thread/INFO]: Guennady joined the game
+[21:02:37] [Server thread/WARN]: KingSlish moved too quickly! -2.0149618952378567,-10.677470706731704,-1.2006105259258
+[21:02:40] [Server thread/INFO]: <Guennady> asdasd
+[21:03:07] [Server thread/INFO]: KingSlish has made the advancement [Stone Age]
+[21:03:18] [Server thread/INFO]: Guennady has made the advancement [Stone Age]
+[21:03:35] [Server thread/INFO]: KingSlish has made the advancement [Getting an Upgrade]
+[21:03:54] [Server thread/INFO]: Guennady has made the advancement [Getting an Upgrade]
+[21:08:14] [Server thread/INFO]: Guennady has made the advancement [Monster Hunter]
+[21:09:49] [Server thread/INFO]: KingSlish has made the advancement [Monster Hunter]
+[21:09:56] [Server thread/INFO]: KingSlish has made the advancement [Sweet Dreams]
+[21:09:58] [Server thread/INFO]: Guennady lost connection: Disconnected
+[21:09:58] [Server thread/INFO]: Guennady left the game
+[21:10:29] [User Authenticator #3/INFO]: UUID of player Guennady is 017d4e60-3d5f-420d-ac5e-3b4b67769c6c
+[21:10:31] [Server thread/INFO]: Guennady[/127.192.237.176:60707] logged in with entity id 3175 at (64.64859858033846, 67.5625, 145.1503121728001)
+[21:10:31] [Server thread/INFO]: Guennady joined the game
+[21:11:23] [Server thread/INFO]: KingSlish lost connection: Disconnected
+[21:11:23] [Server thread/INFO]: KingSlish left the game
+[21:11:28] [Server thread/INFO]: Stopping the server
+[21:11:28] [Server thread/INFO]: Stopping server
+[21:11:28] [Server thread/INFO]: Saving players
+[21:11:29] [Server thread/INFO]: Guennady lost connection: Server closed
+[21:11:29] [Server thread/INFO]: Guennady left the game
+[21:11:29] [Server thread/INFO]: Saving worlds
+[21:11:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:11:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
